@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebBH_Shopping.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebBH_Shopping.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\d3632d3b-8505-46e4-9be6-79d146e0ec8d_product02.png",
+      "PackagePath": "staticwebassets\\image\\d3632d3b-8505-46e4-9be6-79d146e0ec8d_product02.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product03.png",
+      "PackagePath": "staticwebassets\\image\\product03.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product04.png",
+      "PackagePath": "staticwebassets\\image\\product04.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product05.png",
+      "PackagePath": "staticwebassets\\image\\product05.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product06.png",
+      "PackagePath": "staticwebassets\\image\\product06.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product07.png",
+      "PackagePath": "staticwebassets\\image\\product07.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product08.png",
+      "PackagePath": "staticwebassets\\image\\product08.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product09.png",
+      "PackagePath": "staticwebassets\\image\\product09.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product10.png",
+      "PackagePath": "staticwebassets\\image\\product10.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product11.png",
+      "PackagePath": "staticwebassets\\image\\product11.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product12.png",
+      "PackagePath": "staticwebassets\\image\\product12.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product13.png",
+      "PackagePath": "staticwebassets\\image\\product13.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product14.png",
+      "PackagePath": "staticwebassets\\image\\product14.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product15.png",
+      "PackagePath": "staticwebassets\\image\\product15.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product16.png",
+      "PackagePath": "staticwebassets\\image\\product16.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product17.png",
+      "PackagePath": "staticwebassets\\image\\product17.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\image\\product18.png",
+      "PackagePath": "staticwebassets\\image\\product18.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\1a504dda-71ed-4b83-ba5c-ef6f773770b0_product01.png",
+      "PackagePath": "staticwebassets\\media\\products\\1a504dda-71ed-4b83-ba5c-ef6f773770b0_product01.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\29ccce09-4e6f-419e-920f-6d55e5182aef_product11.png",
+      "PackagePath": "staticwebassets\\media\\products\\29ccce09-4e6f-419e-920f-6d55e5182aef_product11.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\2f86c6c1-a3ad-4e23-96ea-3ba478594dee_product18.png",
+      "PackagePath": "staticwebassets\\media\\products\\2f86c6c1-a3ad-4e23-96ea-3ba478594dee_product18.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\38dece7d-5da7-4205-a419-c34ccfb691f5_product15.png",
+      "PackagePath": "staticwebassets\\media\\products\\38dece7d-5da7-4205-a419-c34ccfb691f5_product15.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\46037089-9b91-4ff5-93c1-21609f91cf86_product13.png",
+      "PackagePath": "staticwebassets\\media\\products\\46037089-9b91-4ff5-93c1-21609f91cf86_product13.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\527361ed-9a68-4d32-9097-7e03434909c3_product16.png",
+      "PackagePath": "staticwebassets\\media\\products\\527361ed-9a68-4d32-9097-7e03434909c3_product16.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\699a4c76-c109-41a1-90ed-bab1bb99b222_product08.png",
+      "PackagePath": "staticwebassets\\media\\products\\699a4c76-c109-41a1-90ed-bab1bb99b222_product08.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\7b80aab6-ddbc-4433-8f8f-7806a5746ffb_product09.png",
+      "PackagePath": "staticwebassets\\media\\products\\7b80aab6-ddbc-4433-8f8f-7806a5746ffb_product09.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\9c33bd19-3695-492d-8ff1-d5b23817a02b_product14.png",
+      "PackagePath": "staticwebassets\\media\\products\\9c33bd19-3695-492d-8ff1-d5b23817a02b_product14.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\a780c901-36f1-42c5-b6c1-acb18f1605db_product10.png",
+      "PackagePath": "staticwebassets\\media\\products\\a780c901-36f1-42c5-b6c1-acb18f1605db_product10.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\adfd6cb0-ce8d-4815-b2cd-6c8ed4023f83_product06.png",
+      "PackagePath": "staticwebassets\\media\\products\\adfd6cb0-ce8d-4815-b2cd-6c8ed4023f83_product06.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\b39fa493-682c-46f6-be5d-b6823382ecf0_product03.png",
+      "PackagePath": "staticwebassets\\media\\products\\b39fa493-682c-46f6-be5d-b6823382ecf0_product03.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\d3c59320-db57-4863-8223-47b9c69aa446_product04.png",
+      "PackagePath": "staticwebassets\\media\\products\\d3c59320-db57-4863-8223-47b9c69aa446_product04.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\e7e50007-ad60-448a-96c5-a78263bfc1b3_product05.png",
+      "PackagePath": "staticwebassets\\media\\products\\e7e50007-ad60-448a-96c5-a78263bfc1b3_product05.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\e9432f26-be72-4006-8392-304a646aa637_product07.png",
+      "PackagePath": "staticwebassets\\media\\products\\e9432f26-be72-4006-8392-304a646aa637_product07.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\fa122c1d-2ebd-400e-a06a-97042a15c036_product02.png",
+      "PackagePath": "staticwebassets\\media\\products\\fa122c1d-2ebd-400e-a06a-97042a15c036_product02.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\fc3f6b0b-8e3a-43ef-ae9b-555d299e685d_product17.png",
+      "PackagePath": "staticwebassets\\media\\products\\fc3f6b0b-8e3a-43ef-ae9b-555d299e685d_product17.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\febc6010-2666-4bdc-b95f-5c893d4e4358_product12.png",
+      "PackagePath": "staticwebassets\\media\\products\\febc6010-2666-4bdc-b95f-5c893d4e4358_product12.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\product01.png",
+      "PackagePath": "staticwebassets\\media\\products\\product01.png"
+    },
+    {
+      "Id": "D:\\WebBH_Shopping\\WebBH_Shopping\\wwwroot\\media\\products\\product02.png",
+      "PackagePath": "staticwebassets\\media\\products\\product02.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebBH_Shopping.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebBH_Shopping.props",
+      "PackagePath": "build\\WebBH_Shopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebBH_Shopping.props",
+      "PackagePath": "buildMultiTargeting\\WebBH_Shopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebBH_Shopping.props",
+      "PackagePath": "buildTransitive\\WebBH_Shopping.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

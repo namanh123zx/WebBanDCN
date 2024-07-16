@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h3>Danh Sách Người Dùng</h3>
+@model List<UserViewModel>
+<a asp-area="Admin" asp-action="Create" class="btn btn-success btn-sm" asp-controller="Users">Add User</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">UserName</th>
+            <th scope="col">Email</th>
+            <th scope="col">Roles</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.UserName</td>
+                <td>@item.Email</td>
+                <td>@item.Roles</td>
+
+                <td>
+                    <a asp-action="Edit" class="btn btn-warning btn-sm" asp-controller="Users" asp-route-id="@item.Id">Edit</a>
+                    <a asp-action="Details" class="btn btn-success btn-sm" asp-controller="Users" asp-route-id="@item.Id">Details</a>
+                    <a asp-action="Delete" class="btn btn-danger btn-sm confirmDeletion" asp-controller="Users" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>

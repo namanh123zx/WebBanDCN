@@ -1,0 +1,160 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model CartItemViewModel;
+
+<style>
+	#paymentForm {
+		width: 500px; /* Adjust as needed */
+		margin: 0 auto;
+	}
+
+	.form-group {
+		margin-bottom: 15px;
+	}
+
+	.form-control {
+		width: 100%;
+	}
+</style>
+<section id="cart_items">
+	<div class="container">
+		<div class="breadcrumbs">
+			<ol class="breadcrumb">
+				<li><a href="#">Home</a></li>
+				<li class="active">Shopping Cart</li>
+			</ol>
+		</div>
+		<div class="table-responsive cart_info">
+			<table class="table table-condensed">
+				<thead>
+					<tr class="cart_menu">
+						<td class="image">Image</td>
+						<td class="Name">Name</td>
+						<td class="price">Price</td>
+						<td class="quantity">Quantity</td>
+						<td class="total">Total</td>
+					</tr>
+				</thead>
+				<tbody>
+
+					@if (Model.CartItems.Count > 0)
+					{
+						@foreach (var item in Model.CartItems)
+						{
+
+						<td class="cart_product">
+							<a href=""><img src="~/media/products/@item.Image" height="100px" width="100px" alt=""></a>
+						</td>
+						<td class="cart_description">
+							<h4><a href="">@item.ProductName</a></h4>
+
+						</td>
+						<td class="cart_price">
+							<p>@item.Price VND</p>
+						</td>
+						<td class="cart_quantity">
+
+							<a class="btn btn-default btn-sm" asp-controller="Payment" asp-action="Increase" asp-route-id="@item.ProductId"> + </a>
+							<input class="cart_quantity_input" type="text" name="quantity" value="@item.Quantity" autocomplete="off" size="2">
+							<a class="btn btn-success btn-sm" asp-controller="Payment" asp-action="Decrease" asp-route-id="@item.ProductId"> - </a>
+							<a class="btn btn-danger btn-sm" asp-controller="Payment" asp-action="Remove" asp-route-id="@item.ProductId">Remove</a>
+
+						</td>
+						<td class="cart_total">
+							<p class="cart_total_price">@Model.CartItems.Where(x => x.ProductId == @item.ProductId).Sum(x => x.Quantity * x.Price).ToString()</p>
+						</td>
+						<td class="cart_delete">
+							<a class="cart_quantity_delete" href=""><i class="fa fa-times"></i></a>
+						</td>
+
+
+						}
+
+
+					}
+					else
+					{
+					<tr>
+						<td colspan="5"><h4>Your Cart is Empty</h4></td>
+
+					</tr>
+
+					}
+				</tbody>
+				<tbody>
+				<td class="py-5">
+					<p class="mb-0 text-dark py-4">Shipping</p>
+				</td>
+				<td colspan="3" class="py-5">
+					<div class="form-check text-start">
+						<input type="checkbox" class="form-check-input bg-primary border-0" id="Shipping-1" name="Shipping-1" value="Shipping">
+						<label class="form-check-label" for="Shipping-1">Free Shipping</label>
+					</div>
+					<div class="form-check text-start">
+						<input type="checkbox" class="form-check-input bg-primary border-0" id="Shipping-2" name="Shipping-1" value="Shipping">
+						<label class="form-check-label" for="Shipping-2">Flat rate: $15.00</label>
+					</div>
+
+				</td>
+				</tr>
+				<tr>
+
+				<tr rowspan="5">
+
+					<td colspan="6" style="text-align: left;">  Grand Total: <p class="cart_total_price"> @Model.GrandTotal.ToString()</p>
+
+				</tr>
+				</tr>
+				</tbody>
+			</table>
+
+		</div>
+		<div class="container-fluid py-5">
+			<div class="container py-5">
+				<h1 class="mb-4">Thông tin thanh toán</h1>
+				<form asp-action="Payment" asp-controller="Payment">
+					<div class="row g-5">
+
+						<div class="col-md-12 col-lg-6 col-xl-7">
+
+							<form id="paymentForm">
+								<div class="form-group">
+									<label for="fullName">Full Name:</label>
+									<input type="text" class="form-control" id="fullName" name="fullName" placeholder="Enter your full name">
+								</div>
+								<div class="form-group">
+									<label for="emailAddress">Email Address:</label>
+									<input type="email" class="form-control" id="emailAddress" name="emailAddress" placeholder="Enter your email address">
+								</div>
+								<div class="form-group">
+									<label for="phoneNumber">Phone Number:</label>
+									<input type="tel" class="form-control" id="phoneNumber" name="phoneNumber" placeholder="Enter your phone number">
+								</div>
+								<div class="form-group">
+									<label for="address">Address:</label>
+									<textarea class="form-control" id="address" name="address" placeholder="Enter your shipping address"></textarea>
+								</div>
+								@if (User.Identity?.IsAuthenticated ?? false)
+								{
+									<tr rowspan="5">
+										<td colspan="6"> <a asp-controller="Checkout" asp-action="Checkout" class="btn btn-primary">Xác Nhận Thanh Toán</a></td>
+
+									</tr>
+								}
+							</form>
+
+						</div>
+
+					</div>
+				</form>
+			</div>
+		</div>
+
+	</div>
+</section>
+
+
+
