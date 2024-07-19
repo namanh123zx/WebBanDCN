@@ -11,6 +11,8 @@ namespace WebBH_Shopping.Models
         [EmailAddress]
         [Display(Name = "Email")]
         public string Email { get; set; }
+        public string Role { get; set; }
+
         
     }
 }

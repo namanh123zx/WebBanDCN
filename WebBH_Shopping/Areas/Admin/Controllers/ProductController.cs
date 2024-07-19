@@ -10,7 +10,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace WebBH_Shopping.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize]
+    [Authorize(Roles ="Admin")]
     public class ProductController : Controller
     {
         private readonly WebBH_ShoppingContext _context;
@@ -21,7 +21,7 @@ namespace WebBH_Shopping.Areas.Admin.Controllers
             _webHostEnvironment = webHostEnvironment;
         }
         
-        public async Task<IActionResult> Index(int pageIndex = 1, int pageSize = 4)
+        public async Task<IActionResult> Index(int pageIndex = 1, int pageSize = 5)
         {
             var products = _context.ProductModel
                 .OrderByDescending(p => p.Id)
@@ -44,6 +44,7 @@ namespace WebBH_Shopping.Areas.Admin.Controllers
             return View(paginatedProducts);
         }
         [HttpGet]
+        [Route("Create")]
         public IActionResult Create()
         {
             ViewBag.Categories = new SelectList(_context.CategoryModel, "Id", "Name");

@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "D:\\WebBH_Shopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|d:\\webbh_shopping\\webbh_shopping\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\models\\editmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\models\\editmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|d:\\webbh_shopping\\webbh_shopping\\areas\\admin\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +57,50 @@
     {
       "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|d:\\webbh_shopping\\webbh_shopping\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\approles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\approles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,20 +135,12 @@
       "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\models\\editmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\models\\editmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\models\\rolesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\models\\rolesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|D:\\WebBH_Shopping\\webbh_shopping\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3018B9-AB00-4CA6-9D34-785F4E7CF15E}|WebBH_Shopping\\WebBH_Shopping.csproj|solutionrelative:webbh_shopping\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,48 +150,302 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:20:41.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditModel.cs",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\EditModel.cs",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Models\\EditModel.cs",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\EditModel.cs",
+              "RelativeToolTip": "WebBH_Shopping\\Models\\EditModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:03:08.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T15:23:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T22:38:08.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T23:12:46.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppUserModel.cs",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\AppUserModel.cs",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Models\\AppUserModel.cs",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\AppUserModel.cs",
+              "RelativeToolTip": "WebBH_Shopping\\Models\\AppUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:03:12.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T20:43:00.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:19:02.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T04:49:29.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Create.cshtml",
               "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Create.cshtml",
               "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-16T15:23:52.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
-              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
-              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T15:23:51.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Details.cshtml",
               "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Details.cshtml",
               "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T15:23:49.153Z"
+              "WhenOpened": "2024-07-16T15:23:49.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T20:23:47.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:13:14.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T15:13:09.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T20:24:20.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T20:35:00.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T20:23:36.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T21:24:47.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T20:43:04.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwGwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:19:17.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebBH_Shopping\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T21:34:40.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\AppRoles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T21:34:23.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppRolesController.cs",
+              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:19:14.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Users\\Delete.cshtml",
@@ -139,31 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwBcAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:13:14.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-16T15:13:09.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Views\\Orders\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Views\\Orders\\Index.cshtml",
@@ -175,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Controllers\\OrdersController.cs",
@@ -187,19 +481,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Areas\\Admin\\Controllers\\OrdersController.cs",
               "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Areas\\Admin\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "WebBH_Shopping\\Areas\\Admin\\Controllers\\OrdersController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T18:19:42.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 27,
               "Title": "OrderModel.cs",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\OrderModel.cs",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Models\\OrderModel.cs",
@@ -211,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Views\\Checkout\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Views\\Checkout\\Index.cshtml",
@@ -223,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Views\\Cart\\Index.cshtml",
@@ -235,19 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppUserModel.cs",
-              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\AppUserModel.cs",
-              "RelativeDocumentMoniker": "WebBH_Shopping\\Models\\AppUserModel.cs",
-              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\AppUserModel.cs",
-              "RelativeToolTip": "WebBH_Shopping\\Models\\AppUserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T18:03:12.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 32,
               "Title": "BrandModel.cs",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\BrandModel.cs",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Models\\BrandModel.cs",
@@ -259,19 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EditModel.cs",
-              "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\EditModel.cs",
-              "RelativeDocumentMoniker": "WebBH_Shopping\\Models\\EditModel.cs",
-              "ToolTip": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\EditModel.cs",
-              "RelativeToolTip": "WebBH_Shopping\\Models\\EditModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T18:03:08.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "CategoryModel.cs",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\CategoryModel.cs",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Models\\CategoryModel.cs",
@@ -283,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "OrderDetails.cs",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\OrderDetails.cs",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Models\\OrderDetails.cs",
@@ -295,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "RolesModel.cs",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Models\\RolesModel.cs",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Models\\RolesModel.cs",
@@ -307,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\WebBH_Shopping\\WebBH_Shopping\\Views\\Payment\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBH_Shopping\\Views\\Payment\\Index.cshtml",

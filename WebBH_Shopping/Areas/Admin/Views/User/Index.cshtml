@@ -1,0 +1,35 @@
+﻿
+<h3>Phân quyền người dùng</h3>
+@model IEnumerable<AppUserModel>
+<a asp-area="Admin" asp-action="Create" class="btn btn-success btn-sm" asp-controller="User">Add User</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">UserName</th>
+            <th scope="col">Email</th>
+            <th scope="col">PasswordHash</th>
+            <th scope="col">Phone</th>      
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td>@user.PasswordHash</td>
+                <td>@user.PhoneNumber</td>
+
+
+                <td>
+                    <a asp-action="Edit" class="btn btn-warning btn-sm" asp-controller="User" asp-route-id="@user.Id">Edit</a>             
+                    <a asp-action="Delete" class="btn btn-danger btn-sm confirmDeletion" asp-controller="User" asp-route-id="@user.Id">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>

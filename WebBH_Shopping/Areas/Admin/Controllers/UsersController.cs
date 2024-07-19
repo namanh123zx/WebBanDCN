@@ -80,12 +80,13 @@ namespace WebBH_Shopping.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-
+            var roles = await _userManager.GetRolesAsync(user);
             EditModel userModel = new EditModel
             {
                 Id = user.Id,
                 UserName = user.UserName,
                 Email = user.Email
+
             };
 
             return View(userModel);
@@ -133,12 +134,13 @@ namespace WebBH_Shopping.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-
+            var roles = await _userManager.GetRolesAsync(user);
             EditModel userModel = new EditModel
             {
                 Id = user.Id,
                 UserName = user.UserName,
-                Email = user.Email
+                Email = user.Email,
+                Role = string.Join(", ", roles)
             };
 
             return View(userModel);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebBH_Shopping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+480d44fc1fec9285ed1d393cb74b4be9a71f848a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebBH_Shopping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebBH_Shopping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

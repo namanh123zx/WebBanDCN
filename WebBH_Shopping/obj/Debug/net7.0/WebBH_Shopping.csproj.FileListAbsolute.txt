@@ -790,3 +790,4 @@ D:\WebBH_Shopping1\WebBH_Shopping\bin\Debug\net7.0\System.IO.Packaging.dll
 D:\WebBH_Shopping\WebBH_Shopping\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
 D:\WebBH_Shopping\WebBH_Shopping\bin\Debug\net7.0\DocumentFormat.OpenXml.Framework.dll
 D:\WebBH_Shopping\WebBH_Shopping\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\WebBH_Shopping\WebBH_Shopping\obj\Debug\net7.0\WebBH_Shopping.sourcelink.json
